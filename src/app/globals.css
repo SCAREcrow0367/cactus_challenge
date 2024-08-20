@@ -18,6 +18,6 @@
 
 @layer utilities {
   .text-balance {
-    text-wrap: pretty;
+    text-wrap: nowrap;
   }
 }
